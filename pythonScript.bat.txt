@@ -1,2 +1,2 @@
-@py.exe C:\Users\Sandro\Documents\Programming\PYTHON\password-keeper %*
+@py.exe C:\Users\Sandro\Documents\Programming\PYTHON\password-keeper\passsword-keeper.py %*
 @pause
