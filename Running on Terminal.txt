@@ -1,0 +1,4 @@
+Usage: python password-keeper.py [account] - copy account password
+
+where [account] is replaced with identifier in dictionary.
+Make sure terminal/bash is in the same directory as py file
